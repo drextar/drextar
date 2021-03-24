@@ -4,7 +4,7 @@ Desenvolvedor de sistemas graduado pela Faculdade de Tecnologia (FATEC) no curso
 ### Vamos nos conectar?!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/drextar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vchiarotti//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](http://wa.me/5511963053662)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](mailto:vinicius.chiarotti@outlook.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://drextar.github.io/Portfolio/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/profiles/76561198287907265/)  
 
-Trabalho como desenvolvedor back-end utilizando a seguinte stack: Nodejs (TypeScript), PHP/Laravel, Docker, Gitflow, AWS, Postman.
+Trabalho como desenvolvedor back-end utilizando tecnologias como: Java 8/11, Spring Boot, Spring Batch, Maven, Hibernate, JPA, JUnit, Swagger UI, Cucumber.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
