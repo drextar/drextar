@@ -23,7 +23,7 @@ Java Software Developer.
   <img align="center" alt="Git" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Azure" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/5MZZ2kW/picture-Profile-Cartoon.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/5MZZ2kW/picture-Profile-Cartoon.png?width=500&height=500">
 </div>
   
   ##
