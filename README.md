@@ -1,9 +1,9 @@
 ### Olá, eu sou Vinicius 👋
-Desenvolvedor de sistemas graduado pela Faculdade de Tecnologia (FATEC) no curso de Análise e Desenvolvimento de Sistemas.
+Desenvolvedor de sistemas pós graduado em Engenharia de Software pela PUC Minas.
 
-Atualmente curso Engenharia de Software pela PUC Minas.
+Atualmente curso MBA de Developer Leadership na FIAP
 
-Java Software Developer.
+Java Software Engineer.
 
 <div align="center">
   <a href="https://github.com/drextar">
